@@ -8,4 +8,4 @@ This issue is further compounded when OS level power management and security mea
 
 
 ## Concept
-![Overall concept](./simplestOverview.svg)
+![Overall concept](./diagrams/simplestOverview.svg)
